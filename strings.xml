@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First</string>
+
+    <string name="user_name">rez1</string>
+    <string name="user_password">bsse0933</string>
+
+    <string name="login_preference">com.rez1.first_login_preference</string>
+    <string name="login_status_preference">com.rez1.first_login_status_preference</string>
+</resources>
